@@ -97,8 +97,8 @@
       <multiple>kolumny</multiple>
     </term>
     <term name="figure">
-      <single>rycina</single>
-      <multiple>ryciny</multiple>
+      <single>rysunek</single>
+      <multiple>rysunki</multiple>
     </term>
     <term name="folio">
       <single>folio</single>
